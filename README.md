@@ -5,3 +5,19 @@ This repository contains all the details for the Cloud/DevOps Workshop hosted at
 * Workshop Handout and Cheatsheet: [📘 Workshop Handout_ Key Definitions & CLI Cheat Sheet.pdf](https://github.com/user-attachments/files/19759737/Workshop.Handout_.Key.Definitions.CLI.Cheat.Sheet.pdf)
 * Blog: https://dev.to/yeshwanthlm/deploy-resume-to-aws-ec2-using-github-actions-4hog
 
+Day 1 Important Commands:
+
+```sh Build the Docker Image
+docker build -t resume-app .
+
+```
+
+```sh Run the Container
+docker build -t resume-app .
+
+```
+
+```sh Run the Container
+docker build -t resume-app .
+
+```
