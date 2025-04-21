@@ -9,11 +9,12 @@ This repository contains all the details for the Cloud/DevOps Workshop hosted at
 
 ```sh
 docker build -t resume-app .
-
 ```
 
 ```sh
-docker build -t resume-app .
-
+docker run -d -p 8080:80 resume-app
 ```
+
+### Day 1 Take-home assignment: Dockerize any web app of your choice
+
 
